@@ -1,0 +1,7 @@
+{
+  "normalAlertMessage": "I am an alert box!",
+  "confirmationAlertCancelMsg": "You Pressed Cancel",
+  "confirmationAlertOkayMsg": "You pressed Ok",
+  "confirmAlertMessage": "Press a Button !",
+  "promptAlertMessage": "Hello Automation Testing user How are you today"
+}
